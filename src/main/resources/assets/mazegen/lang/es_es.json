@@ -1,0 +1,3 @@
+{
+  "commands.generate.maze": "Genera un laberinto aleatorio de piedra antigua centrado en las coordenadas dadas. Añade opcionalmente 'coordenadas <tamañoX> <tamañoZ>' para elegir su tamaño en celdas."
+}

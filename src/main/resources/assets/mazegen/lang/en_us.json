@@ -1,0 +1,3 @@
+{
+  "commands.generate.maze": "Generates a random ancient stone maze centered at the given coordinates. Optionally add 'coordenadas <sizeX> <sizeZ>' to pick its size in cells."
+}

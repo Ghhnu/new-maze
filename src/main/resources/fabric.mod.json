@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "mazegen",
+  "version": "1.1.0",
+  "name": "MazeGen",
+  "description": "Genera laberintos aleatorios de piedra antigua, con tamaño configurable, spawners, cofres de botín y cambios cada 30s, con /generate maze <x> <y> <z> [coordenadas <sizeX> <sizeZ>].",
+  "authors": [
+    "TheRedW1zard"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.mazegen.MazeGenMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  }
+}
